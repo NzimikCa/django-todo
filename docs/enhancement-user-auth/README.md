@@ -4,8 +4,8 @@
 - **Original Project**: Django Todo App by shreys7
 - **Repository**: https://github.com/shreys7/django-todo
 - **License**: Apache-2.0
-- **Enhancement Lead**: [Your Name]
-- **Team Members**: [Teammate 1], [Teammate 2], [Teammate 3]
+- **Enhancement Lead**: Nanmi Zimik
+- **Team Members**: Sairaj Martha, Rehan Mohammad Abdul ,Hari Chandra Prasad Rayapati
 
 ## Enhancement Overview
 
@@ -40,11 +40,7 @@ This project adds user authentication and personal todo list functionality to th
 ## Documentation Index
 1. [Project Charter](01-project-charter/charter.md)
 2. [Requirements](02-requirements/)
-3. [Architecture](03-architecture/)
-4. [Planning](04-planning/)
-5. [Risk Management](05-risk-management/)
-6. [Testing Strategy](06-testing/)
-7. [Communication Plan](07-communication/)
+3. [Architecture](03-diagrams/)
 
 ## Timeline
 - **Sprint 1** (Weeks 1-2): User Authentication Core
